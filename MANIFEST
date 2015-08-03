@@ -1,0 +1,16 @@
+Changes
+const-c.inc
+const-xs.inc
+fallback/const-c.inc
+fallback/const-xs.inc
+lib/MacOSX/File/XAttr.pm
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/00.Load.t
+t/01.Get.t
+t/02.Set.t
+t/03.List.t
+t/04.Remove.t
+XAttr.xs
