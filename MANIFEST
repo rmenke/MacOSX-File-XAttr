@@ -4,6 +4,7 @@ const-xs.inc
 fallback/const-c.inc
 fallback/const-xs.inc
 lib/MacOSX/File/XAttr.pm
+LICENSE
 Makefile.PL
 MANIFEST
 ppport.h
